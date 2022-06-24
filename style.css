@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins:wght@500&family=Work+Sans:wght@400;500&display=swap');
+
+body {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    margin-left: 188px;
+    margin-top: 30px;
+}
+
+.main {
+    margin-bottom: 37px;
+}
+
+.main img {
+    width: 1064px;
+    height: 689px;
+
+}
+
+.footer_sections {
+    margin-top: 60px;
+    display: grid;
+    grid-template-columns: 282px 95px 95px 234px;
+    grid-column-gap: 80px ;
+    margin-bottom: 71px;
+}
+
+.first_section h1{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    color: #156963;
+}
+
+.p1 {
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+
+.p2 {
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #4F4F4F;
+    width: 282px;
+    height: 60px;
+}
+
+.second_section {
+    width: 95px;
+    height: 82px;
+}
+
+.second_section h1{
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.p1_2 {
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    margin-top: 20px;
+    margin-bottom: 14px;
+}
+
+.p2_2 {
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.third_section {
+    width: 95px;
+    height: 82px;
+}
+
+.third_section h1{
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.last_section h1{
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.p1_4 {
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    opacity: 0.5;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+button {
+    background: #156963;
+    justify-content: center;
+    width: 61px;
+    height: 22px;
+    border-radius: 5px;
+    
+}
+
+.button_a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
